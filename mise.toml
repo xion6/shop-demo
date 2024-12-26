@@ -1,0 +1,4 @@
+[tools]
+node = '22'
+pre-commit = "latest"
+pnpm = "9"
